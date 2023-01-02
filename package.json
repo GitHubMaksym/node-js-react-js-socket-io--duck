@@ -1,0 +1,23 @@
+{
+  "name": "node-react-socket-io--duck",
+  "version": "1.0.0",
+  "description": "> Socket.IO Fast Start",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubMaksym/node-js-react-js-socket-io--duck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubMaksym/node-js-react-js-socket-io--duck/issues"
+  },
+  "homepage": "https://github.com/GitHubMaksym/node-js-react-js-socket-io--duck#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
